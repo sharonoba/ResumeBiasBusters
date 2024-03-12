@@ -1,0 +1,11 @@
+transformers==4.38.1
+jupyterlab
+torch
+torchvision
+torchaudio
+ipywidgets
+evaluate
+scikit-learn
+matplotlib
+huggingface_hub[cli]
+accelerate
