@@ -1,0 +1,12 @@
+transformers==4.38.1
+jupyterlab
+torch -i https://download.pytorch.org/whl/cu123
+torchvision -i https://download.pytorch.org/whl/cu123
+torchaudio -i https://download.pytorch.org/whl/cu123
+ipywidgets
+evaluate
+scikit-learn
+matplotlib
+huggingface_hub[cli]
+accelerate
+bitsandbytes==0.42.0
